@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class estoqueMedio {
+public class Ex2 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);

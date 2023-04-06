@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class ConversaoGraus {
+public class Ex1 {
 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
